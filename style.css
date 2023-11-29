@@ -1,0 +1,28 @@
+.title {
+    font-size: 64px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.menu {
+    background-color: gainsboro ;
+}
+.title2 {
+    font-size: 34px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    background-color: ghostwhite;
+}
+.card-item {
+    text-decoration: none;
+}
+.title3 {
+    font-size: 19px;
+    font-family: 'Lato', sans-serif;
+}
+.description {
+    font-family: 'Lato', sans-serif;
+}
+.menu-item {
+    text-decoration: none;
+    color: black;
+}
